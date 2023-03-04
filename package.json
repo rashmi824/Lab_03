@@ -1,0 +1,19 @@
+{
+  "name": "lab_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashmi824/Lab_03.git"
+  },
+  "author": "Rashmi Lakshika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashmi824/Lab_03/issues"
+  },
+  "homepage": "https://github.com/rashmi824/Lab_03#readme"
+}
